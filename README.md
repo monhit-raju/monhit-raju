@@ -152,17 +152,6 @@ print(me.motto())
   - Strengthened understanding of full-stack architecture and REST API integration.
 </details>
 
-<details>
-  <summary><b>💻 Full-Stack Web Development Intern — JRM Infotech &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; On-site</b></summary>
-  <br/>
-
-  > `Python` `HTML` `CSS` `JavaScript` `SQL`
-
-  - Acquired practical experience in **full-stack web development** utilizing Python, HTML, CSS, JavaScript, and SQL.
-  - Built and maintained web application features from front-end UI to back-end database integration.
-  - Collaborated with the development team on real-world client projects following industry practices.
-</details>
-
 ---
 
 ## 🚀 Featured Projects
