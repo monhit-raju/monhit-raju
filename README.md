@@ -176,7 +176,7 @@ print(me.motto())
 |----|-------------|---------|
 | 🥉 | **CREATEATHON Web Hackathon** | Secured **3rd Place** — SECE (2024) |
 | 4️⃣ | **HACK-O-HERTZ Hackathon** | Secured **4th Place** — New Prince Sri Bhavani (2026) |
-| 💻 | **LeetCode** | Solved **100+ DSA & Math problems** — [@RAJU_07](https://leetcode.com/u/RAJU_07/) |
+| 💻 | **LeetCode** | Solved **150+ DSA & Math problems** — [@RAJU_07](https://leetcode.com/u/RAJU_07/) |
 | 🎯 | **SkillRack** | Solved **900+ problems** \| Earned **8+ certificates** — [Monhit Raju](http://www.skillrack.com/profile/514660/d87af08bbd19a1957b59a7b51000560aa3194326) |
 | ☁️ | **Salesforce Certified Agentforce Specialist** | Certified 2025 |
 
